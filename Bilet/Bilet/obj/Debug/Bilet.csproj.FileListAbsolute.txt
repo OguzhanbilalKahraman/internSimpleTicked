@@ -1,0 +1,10 @@
+C:\Users\oguzh\Desktop\Windows Form APP\Bilet\Bilet\bin\Debug\Bilet.exe.config
+C:\Users\oguzh\Desktop\Windows Form APP\Bilet\Bilet\bin\Debug\Bilet.exe
+C:\Users\oguzh\Desktop\Windows Form APP\Bilet\Bilet\bin\Debug\Bilet.pdb
+C:\Users\oguzh\Desktop\Windows Form APP\Bilet\Bilet\obj\Debug\Bilet.csprojAssemblyReference.cache
+C:\Users\oguzh\Desktop\Windows Form APP\Bilet\Bilet\obj\Debug\Bilet.Form1.resources
+C:\Users\oguzh\Desktop\Windows Form APP\Bilet\Bilet\obj\Debug\Bilet.Properties.Resources.resources
+C:\Users\oguzh\Desktop\Windows Form APP\Bilet\Bilet\obj\Debug\Bilet.csproj.GenerateResource.cache
+C:\Users\oguzh\Desktop\Windows Form APP\Bilet\Bilet\obj\Debug\Bilet.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\Desktop\Windows Form APP\Bilet\Bilet\obj\Debug\Bilet.exe
+C:\Users\oguzh\Desktop\Windows Form APP\Bilet\Bilet\obj\Debug\Bilet.pdb
